@@ -5,10 +5,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello2");
 
-        System.out.println("Hello5");
-        System.out.println("Hello local");
-        System.out.println("Hello local3");
-                System.out.println("Hello local2");
+
     }
 
 }
